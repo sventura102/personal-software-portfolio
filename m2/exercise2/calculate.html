@@ -1,41 +1,48 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>Calculate Numbers</title>
-        <script src=""></script>
-    </head>
-    <body>
-        <form id="add">
-            <h2>Addition</h2>
-            <label for="number1">Number:</label>
-            <input type="text" id="number1">
-            <label for="number2">Number:</label>
-            <input type="text" id="number2">
-            <button type="button" name="add()" onclick="add()">Add</button>
-        </form>
-        <form id="sub">
-            <h2>Subtraction</h2>
-            <label for="number1">Number:</label>
-            <input type="text" id="number1">
-            <label for="number2">Number:</label>
-            <input type="text" id="number2">
-            <button type="button" name="add()" onclick="subtract()">Subtract</button>
-        </form>
-        <form id="multiply">
-            <h2>Multiply</h2>
-            <label for="number1">Number:</label>
-            <input type="text" id="number1">
-            <label for="number2">Number:</label>
-            <input type="text" id="number2">
-            <button type="button" name="add()" onclick="multiply()">Multiply</button>
-        </form>
-        <form id="divide">
-            <h2>Divide</h2>
-            <label for="number1">Number:</label>
-            <input type="text" id="number1">
-            <label for="number2">Number:</label>
-            <input type="text" id="number2">
-            <button type="button" name="add()" onclick="divide()">Divide</button>
-        </form>
-    </body>
+
+<head>
+    <title>Calculate Numbers</title>
+    <script src="calculate.js"></script>
+</head>
+
+<body>
+    <div id="add">
+        <h2>Addition</h2>
+        <label for="number1">Number:</label>
+        <input type="number" id="add_number1">
+        <label for="number2">Number:</label>
+        <input type="number" id="add_number2">
+        <button type="button" onclick="addition(add_number1, add_number2)">Add</button>
+        <input type="text" id="add_result">
+    </div>
+    <div id="sub">
+        <h2>Subtraction</h2>
+        <label for="number1">Number:</label>
+        <input type="number" id="sub_number1">
+        <label for="number2">Number:</label>
+        <input type="number" id="sub_number2">
+        <button type="button" onclick="subtraction()">Subtract</button>
+        <input type="text" id="sub_result">
+    </div>
+    <div id="multiply">
+        <h2>Multiply</h2>
+        <label for="number1">Number:</label>
+        <input type="number" id="mul_number1">
+        <label for="number2">Number:</label>
+        <input type="number" id="mul_number2">
+        <button type="button" onclick="multiply()">Multiply</button>
+        <input type="text" id="mul_result">
+    </div>
+    <div id="divide">
+        <h2>Divide</h2>
+        <label for="number1">Number:</label>
+        <input type="number" id="div_number1">
+        <label for="number2">Number:</label>
+        <input type="number" id="div_number2">
+        <button type="button" onclick="division()">Divide</button>
+        <input type="text" id="div_result">
+    </div>
+</body>
+
 </html>
