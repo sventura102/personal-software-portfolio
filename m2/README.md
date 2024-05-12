@@ -6,7 +6,7 @@ based on role, listing it in alphabetical order. I used Javascript, HTML, and so
 
 The purpose for this software is to get a good idea of what my experience using APIs is, I'd like to dive into it more by allowing for the champions to be listed in different ways in reverse alphabet.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/H6TLKnGL4Mw)
 
 # Development Environment
 
