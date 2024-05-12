@@ -1,12 +1,10 @@
 # Overview
 
 For this software, I used a League of Legends API to display the champion information. It would be 
-easy to just display it on the site but I decided to create a drop-down that displays champions 
-based on class, listing it in alphabetical order. I used Javascript, HTML, and some CSS to display them.
+easy to just display it on the site but I decided to create a drop-down that displays agents 
+based on role, listing it in alphabetical order. I used Javascript, HTML, and some CSS to display them.
 
-The purpose for this software is to get a good idea of what my experience using APIs is, I'd like to 
-dive into it more by allowing for the champions to be listed in different ways like when the champion was
-created, color codes (if the API allows), etc.
+The purpose for this software is to get a good idea of what my experience using APIs is, I'd like to dive into it more by allowing for the champions to be listed in different ways in reverse alphabet.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
@@ -17,6 +15,7 @@ created, color codes (if the API allows), etc.
 
 * Javascript
 * HTML
+* CSS
 
 # Useful Websites
 
@@ -28,3 +27,4 @@ created, color codes (if the API allows), etc.
 
 - Array Project - I'd like to display my work with arrays
 - Different displays for API - adjusting the display to look a little bit more professional with CSS
+- Implementing Filter options - creating this will allow users to see Agents under their filtered role
