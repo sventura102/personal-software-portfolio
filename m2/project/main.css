@@ -1,0 +1,61 @@
+/* HTML Selectors */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+body {
+    font-family: 'Bebas Neue', sans-serif;
+}
+div {
+    margin: 10px;
+    text-align: center;
+}
+main {
+    display: grid;
+}
+footer {
+    background-color: rgb(255, 8, 169);
+    color: white;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+}
+
+img {
+    grid-template-columns: 1fr;
+    width: 620px;
+}
+#agents {
+    grid-template-columns: 2fr;
+    padding: 20px;
+    margin: 20px;
+    background-color: beige;
+}
+h1 {
+    font-size: 40px;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    text-align: center;
+    width: auto;
+    
+}
+h2 {
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    width: 400px;
+    text-align: left;
+    font-size: 30px;
+    padding-left: 10px;
+    font-weight: bold;
+}
+h3 {
+    width: 400px;
+    text-align: center;
+    font-weight: light;
+}
+
+select#dropdown {
+    grid-template-columns: 1fr;
+    margin-left: 500px;
+    margin-right: 500px;
+
+}
