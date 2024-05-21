@@ -9,12 +9,12 @@ public class studentGradebook {
         // Grades will be stored here!
         public HashMap<String, Double> grades = new HashMap<String, Double>();
 
-        //Getter and Setters for the Student
+        //Getter for the Student
         public Student(int studentID, String studentName) {
             this.studentID = studentID;
             this.studentName = studentName;
         }
-        //
+        // display student, will change for file integration
         public void displayInfo() {
             System.out.println("Student ID: " + studentID);
             System.out.println("Student Name: " + studentName);
