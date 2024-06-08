@@ -12,11 +12,11 @@ differences and adjusted well.
 
 # Development Environment
 
-*Visual Studio Community 2022
-*Github
+* Visual Studio Community 2022
+* Github
 
-*C#
-*.Net
+* C#
+* .Net
 
 # Useful Websites
 
