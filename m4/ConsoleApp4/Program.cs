@@ -12,10 +12,11 @@ namespace ConsoleApp4
 
             while (name == "")
             {
+                //statement is repeated until something is written on the line
                 Console.Write("Enter your name: ");
                 name = Console.ReadLine();
             }
-
+            // prints name with hello at the beginning
             Console.Write("Hello " + name);
             Console.ReadKey();
         }

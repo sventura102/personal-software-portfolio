@@ -1,0 +1,15 @@
+C:\Users\Elektra\Source\Repos\sventura102\personal-software-portfolio\ConsoleApp5\bin\Debug\net8.0\ConsoleApp5.exe
+C:\Users\Elektra\Source\Repos\sventura102\personal-software-portfolio\ConsoleApp5\bin\Debug\net8.0\ConsoleApp5.deps.json
+C:\Users\Elektra\Source\Repos\sventura102\personal-software-portfolio\ConsoleApp5\bin\Debug\net8.0\ConsoleApp5.runtimeconfig.json
+C:\Users\Elektra\Source\Repos\sventura102\personal-software-portfolio\ConsoleApp5\bin\Debug\net8.0\ConsoleApp5.dll
+C:\Users\Elektra\Source\Repos\sventura102\personal-software-portfolio\ConsoleApp5\bin\Debug\net8.0\ConsoleApp5.pdb
+C:\Users\Elektra\Source\Repos\sventura102\personal-software-portfolio\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elektra\Source\Repos\sventura102\personal-software-portfolio\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.AssemblyInfoInputs.cache
+C:\Users\Elektra\Source\Repos\sventura102\personal-software-portfolio\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.AssemblyInfo.cs
+C:\Users\Elektra\Source\Repos\sventura102\personal-software-portfolio\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\Elektra\Source\Repos\sventura102\personal-software-portfolio\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.sourcelink.json
+C:\Users\Elektra\Source\Repos\sventura102\personal-software-portfolio\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.dll
+C:\Users\Elektra\Source\Repos\sventura102\personal-software-portfolio\ConsoleApp5\obj\Debug\net8.0\refint\ConsoleApp5.dll
+C:\Users\Elektra\Source\Repos\sventura102\personal-software-portfolio\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.pdb
+C:\Users\Elektra\Source\Repos\sventura102\personal-software-portfolio\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.genruntimeconfig.cache
+C:\Users\Elektra\Source\Repos\sventura102\personal-software-portfolio\ConsoleApp5\obj\Debug\net8.0\ref\ConsoleApp5.dll
